@@ -1,0 +1,48 @@
+title: Learn with Kryptr!
+subtitle: Kryptr Learn is Kryptr's learning management platform for upskilling talented individuals and transforming them into functionally competent resources. Users gain access to a blend of learning experiences and the broad-based skillsets required to thrive in today’s fast-paced business landscape.
+paragraph: Kryptr’s curriculum is designed for application in the workplace by using real life case studies drawn from our archive of over 250+ completed and live consulting projects – ensuring users are solving real life business problems and connecting learning to industry.
+bridge:
+  title: Bridge your Competence Gap!
+  text: Sign up for GAP; our flagship programme that deploys a training and evaluation methodology guaranteed to transform entry level talents (0 – 3years) into Certified Business ‘Generalists’ – rare talent in high demand by business leaders.
+platform_features:
+  - Instructor led sessions
+  - Real life projects
+  - Apt and intuitive Courses
+  - Pre and post assessment
+  - Multimedia/ video tutorials
+  - Learning community
+  - Continuous learning
+  - Up to date content
+why_kryptr_learn:
+  -
+    name: Unique Learning Journey
+    text: Our user competency requirements, structure, content and sequence of learning are informed by real life market feedback.
+    icon: uil-book-open
+  -
+    name: Action learning
+    text: Our delivery methodology prioritizes “doing” rather than just ‘learning’.
+    icon: uil-transaction
+  -
+    name: Robust Project Archives
+    text: Our bank of 250+ completed and live projects serve as relevant case studies, learning material, and businesses challenges to work on in real-time.
+    icon: uil-archive
+  -
+    name: Internship and job Placements
+    text: Our students have an opportunity to secure internships or jobs with our various hiring partners.
+    icon: uil-chart-line
+  -
+    name: Live Instructor Led Sessions
+    text: Ask instructors questions digitally and gain clarity in real time.
+    icon: uil-user
+  -
+    name: Experienced Faculty
+    text: Our faculty is versed in functional business knowledge and its application in different real-world scenarios. ​They focus on connecting the dots in a user's learning journey.
+    icon: uil-brain
+  -
+    name: Guest Mentoring
+    text: Our clientele are featured as guest business mentors where they provide students real world business insight and experience.
+    icon: uil-monitor
+  -
+    name: 24hr Technical support
+    text: Users have 24hr access to updates, technical and course support.
+    icon: uil-phone-volume
